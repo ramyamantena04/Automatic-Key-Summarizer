@@ -1,5 +1,6 @@
 streamlit
 transformers
-torch
-PyMuPDF
-newspaper3k
+PyPDF2
+requests
+beautifulsoup4
+
