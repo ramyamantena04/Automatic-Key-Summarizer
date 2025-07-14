@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+PyMuPDF
+newspaper3k
